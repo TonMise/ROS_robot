@@ -10,4 +10,4 @@ You can find the Fusion 360 designs here:
 	- First design: https://a360.co/38nZJjM
 	- Final design: https://a360.co/3nEGskr
 	
-If you want you can also find the PDF of my Treball de Recerca in this repository (it's written in catalan).
+If you want to read it, you can also find the PDF of my Treball de Recerca in this repository (it's written in catalan).
